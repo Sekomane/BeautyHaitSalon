@@ -1,4 +1,4 @@
-# BeautyHaitSalon
+# BeautyHairSalon
 Internet Programing Homework
 
 # Group Members
